@@ -1,0 +1,8 @@
+name=input()
+age=input()
+address=input()
+score=int(input())
+print("My Name is",name)
+print("My age is",age)
+print("I am from",address)
+print("I scored",score,"/100")
